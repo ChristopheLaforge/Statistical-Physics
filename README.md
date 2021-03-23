@@ -8,4 +8,6 @@ represent the distribution of finite self-avoiding walks.
 
 I also include some unit tests to my code.
 
+I would also need a piece of code that transform the SAW into a picture for illustration.
+
 Finally, it should be embedded into a proper class and not just independent functions. I will do this later on.
