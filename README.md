@@ -6,4 +6,6 @@ In that particular case, I need to take into account the number of quadrant that
 Statistically, by removing the possibility for the path to be blocked in its growth, I biais the distribution for a finite walk. It is therefore not suitable to
 represent the distribution of finite self-avoiding walks.
 
+I also include some unit tests to my code.
+
 Finally, it should be embedded into a proper class and not just independent functions. I will do this later on.
