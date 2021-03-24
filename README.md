@@ -10,7 +10,7 @@ represent the distribution of finite self-avoiding walks.
 ## To-do list
 
 Fix the issue with long-chain<br>
+Include the double contacts case and think about double corners case.<br>
 Include some unit tests to my code.<br>
-Replace the StepIncrement with a max function.<br>
 Transform the SAW into a picture for illustration.<br>
 Embedded into a proper class and not just a set of independent functions.
